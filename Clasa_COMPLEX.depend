@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1492515852 source:c:\users\home\desktop\clasa_complex\main.cpp
+	<iostream>
+	<math.h>
+	<complex.h>
+
+1495370202 c:\users\home\desktop\clasa_complex\include\complex.h
+	<iostream>
+	<math.h>
+
+1495384533 source:c:\users\home\desktop\clasa_complex\src\complex.cpp
+	"complex.h"
+
+1492512254 source:e:\clasa_complex\main.cpp
+	<iostream>
+	<math.h>
+	<complex.h>
+
+1495366604 e:\clasa_complex\include\complex.h
+	<iostream>
+	<math.h>
+
+1495806898 source:e:\users\student\desktop\clasa_complex\main.cpp
+	<iostream>
+	<math.h>
+	<complex.h>
+
+1495799494 e:\users\student\desktop\clasa_complex\include\complex.h
+	<iostream>
+	<math.h>
+
+1495799494 source:e:\users\student\desktop\clasa_complex\src\complex.cpp
+	"complex.h"
+
